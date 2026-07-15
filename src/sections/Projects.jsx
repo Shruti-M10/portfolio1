@@ -35,6 +35,7 @@ const projects = [
     tech: "React • Tailwind",
     description:
       "Personal portfolio showcasing projects, skills, and achievements.",
+      github: "https://github.com/Shruti-M10/portfolio1",
   },
 ];
 
